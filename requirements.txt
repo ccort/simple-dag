@@ -1,2 +1,5 @@
 flask_bcrypt
 pyOpenSSL
+psycopg2==2.7.3.2
+xmltodict
+fake-useragent==0.1.10
